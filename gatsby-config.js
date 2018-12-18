@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Scenic Route',
+    title: 'WHS School Safety',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

@@ -1,65 +1,35 @@
 ---
 path: "/post-two"
-date: "2018-12-03"
-title: "Road Map"
-author: "Dave Schilling"
+date: "2018-12-12"
+title: "Do I need my lungs?"
+author: "Officer Dave"
 ---
 
-**Howdy!** 
+**Lung Health** 
 
-After building a few lame React apps, and going through several React tutorials I stumbled upon a book by Robin Wieruch: the Road to learn React. I’m pretty excited to plow through this book as it looks like Robin is dedicated to keep this consistently updated and has a Slack community built around it. Robin has a challenge at the start of his book so I took up the challenge. Here is my blog detailing 
+E-cigarettes are electronic devices that heat a liquid and produce an aerosol, or mix of small particles in the air.
+E-cigarettes come in many shapes and sizes. Most have a battery, a heating element, and a place to hold a liquid.
+Some e-cigarettes look like regular cigarettes, cigars, or pipes. Some look like USB flash drives, pens, and other everyday items. Larger devices such as tank systems, or “mods,” do not look like other tobacco products.
+E-cigarettes are known by many different names. They are sometimes called “e-cigs,” “e-hookahs,” “mods,” “vape pens,” “vapes,” “tank systems,” and “electronic nicotine delivery systems (ENDS).”
+Using an e-cigarette is sometimes called “vaping” or “JUULing.”
 
-My roadmap from Cop to Code
+1. E-cigarettes and other vaping devices are NOT risk-free.
+2. They contain nicotine, a highly addictive drug with known health risks.
+3. Using e-cigarettes and other vaping products is not a proven method for quitting smoking.
+4. E-cigarettes and other vaping devices are not used exclusively by people trying to quit smoking.
+5. E-cigarettes and other vaping devices are frequently used in addition to smoked cigarettes, rather than in place of them.
+6. Nicotine can affect brain development and functioning in young people.
+7. E-cigarettes and other vaping devices are not FDA approved.
+8. There is little consistency across different products.
+9. There is no evidence that the aerosol from these products is safe.
+10. The spread of e-cigarettes and other vaping devices may be re-normalizing smoking behavior.
 
-The Clear Path
+**Sources:**
 
-HTML, CSS, JS, Responsive Web Design, Sass, Bootstrap, Webpack, Modular JS, React, Redux, Testing, Projects and more 
+https://www.cdc.gov/tobacco/basic_information/e-cigarettes/Quick-Facts-on-the-Risks-of-E-cigarettes-for-Kids-Teens-and-Young-Adults.html
 
+https://www.centeronaddiction.org/e-cigarettes/about-e-cigarettes/10-surprising-facts-about-e-cigarettes
 
-The Actual Path
-HTML, some Python, a little JS, jQuery, Bootstrap, React, some tutorial projects, more React, (OK let’s learn JS for real this time), some JS projects, more React, books in JS, books in React, some Webpack, MySQL, React projects (now we’re having some fun), build some React projects on my own, dig deep into JS, continue the journey …. 
-
-
-
-Favorite resources:
-
-Youtube channels:
-
-Traversy Media
-https://www.youtube.com/user/TechGuyWeb
-
-whatsdev
-https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg
-
-Dylan Israel
-https://www.youtube.com/user/pizzapokerguy87
-
-Joshua Fluke
-https://www.youtube.com/user/Tychos1
-
-Books:
-
-The Road to learn React: Your journey to master plain yet pragmatic React.js
-Wieruch, Robin
-
-
-You Don't Know JS: Scope & Closures
-Simpson, Kyle
-
-Computer Science Distilled: Learn the Art of Solving Computational Problems
-Ferreira Filho, Wladston
-
-Rediscovering JavaScript: Master ES6, ES7, and ES8
-Subramaniam, Venkat
-
-The Clean Coder: A Code of Conduct for Professional Programmers
-Martin, Robert C.
-
-
-Proving the journey: 
-
-My GitHub: https://github.com/azdaves
-
-daveschilling.com/projects
+https://www.nbcnews.com/health/health-news/more-teens-are-vaping-many-think-it-s-nicotine-free-n948251
 
 

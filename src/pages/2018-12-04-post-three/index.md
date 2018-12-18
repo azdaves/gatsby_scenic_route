@@ -1,10 +1,12 @@
 ---
 path: "/post-three"
-date: "2018-12-04"
-title: "Third Times A Charm"
-author: "Bo"
+date: "2018-12-17"
+title: "Brain Game"
+author: "Officer Dave"
 ---
 
-**Unidirectional Data Flow**
+**Brain Health**
 
-unidirectional data flow of React. An action is triggered in the view layer with onClick(), a function or class method modifies the local component state, and then the render() method of the component runs again to update the view. 
+*Access Denied*
+
+Sorry, this page is for a January 2019 Class scheduled for Wickenburg High School. You can see it then.

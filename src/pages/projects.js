@@ -5,9 +5,13 @@ import Layout from '../components/layout'
 
 const ProjectsPage = () => (
   <Layout>
-    <h1>Projects</h1>
-    <p>Here they are.....</p>
-    <Link to="/">Go back to the homepage</Link>
+    <h1>WHS 2018 Survey</h1>
+    <Link external to="http://46.101.162.5">Click HERE for Survey</Link>
+    <br/>
+    <a href="http://46.101.162.5"> </a>
+    <br/>
+    <br/>
+    <p>NOTE: the survey will ONLY be live from 0800-11:30 on 12/20/18</p>
   </Layout>
 )
 

@@ -24,8 +24,8 @@ const Layout = ({ children }) => (
         <Helmet
           title={data.site.siteMetadata.title}
           meta={[
-            { name: 'description', content: 'A Scenic Route App using React/Django' },
-            { name: 'keywords', content: 'react, django, map, scenice, route' },
+            { name: 'description', content: 'A Landing Page App using React' },
+            { name: 'keywords', content: 'react' },
           ]}
         >
           <html lang="en" />
