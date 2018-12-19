@@ -65,7 +65,7 @@ export default class Contact extends React.Component {
           <p>
             <label>
               Location:<br />
-              <input type="email" name="email" onChange={this.handleChange} />
+              <input type="text" name="location" onChange={this.handleChange} />
             </label>
           </p>
           <p>
