@@ -58,13 +58,13 @@ export default class Contact extends React.Component {
           </p>
           <p>
             <label>
-              Your name:<br />
+              Frequency:<br />
               <input type="text" name="name" onChange={this.handleChange} />
             </label>
           </p>
           <p>
             <label>
-              Your email:<br />
+              Location:<br />
               <input type="email" name="email" onChange={this.handleChange} />
             </label>
           </p>
