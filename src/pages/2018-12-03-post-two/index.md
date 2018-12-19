@@ -7,6 +7,20 @@ author: "Officer Dave"
 
 **Lung Health** 
 
+Please complete the survey here: http://46.101.162.5/
+
+*NOTE: the survey will ONLY be live from 0800-11:30 on 12/20/18*
+
+Short Version:
+
+
+**1) E-cigarettes do harm you.**
+
+**2) E-cigaretts have UNKNOWN long term affects on the brain and lungs.**
+
+
+Long Version:
+
 E-cigarettes are electronic devices that heat a liquid and produce an aerosol, or mix of small particles in the air.
 E-cigarettes come in many shapes and sizes. Most have a battery, a heating element, and a place to hold a liquid.
 Some e-cigarettes look like regular cigarettes, cigars, or pipes. Some look like USB flash drives, pens, and other everyday items. Larger devices such as tank systems, or “mods,” do not look like other tobacco products.
